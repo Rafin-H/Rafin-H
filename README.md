@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Rafin-H
+- 👀 I’m interested in pragmming
+- 🌱 I’m currently learning Python and some of its packages, like numpy
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me
